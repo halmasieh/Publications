@@ -73,12 +73,12 @@ Authors: K. Maleknejad, H. Almasieh, M. Roodaki
 
 ## BOOK
 
-Mathematical  Models and their Applications, Published by Isfahan University, 2018
+Mathematical  Models and their Applications, Published by Isfahan University, Isfahan, Iran, 2018
 
 
 ## CONFERENCES
 
-1- Hybrid functions method for solving integro differential equations, 
+1- Hybrid functions method for solving integro differential equations,<br /> 
 Conference: 5th Iranian Conference on Applied Mathematics. 2013; (Poster),
 Authors: Homa Almasieh, Najaf Taherian
 
