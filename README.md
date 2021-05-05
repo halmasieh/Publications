@@ -36,7 +36,7 @@ http://dx.doi.org/10.1016/j.asej.2012.04.006
 
 **9- A meshless method for the numerical solution of nonlinear Volterra integro-differential equation using radial basis functions**<br />
 Journal: Journal of Sama Technical and Vocational Traning College 2012; 2(1):41-44<br />
-Authors: Homa Almasieh, Jinoos Nazari Meleh
+Authors: Homa Almasieh, Jinoos Nazary Meleh
 
 **10- Delta basis functions and their applications to systems of integral equations**<br />
 Journal: Computers and Mathematics with Applications. 2012;63:100-109<br />
