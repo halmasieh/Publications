@@ -115,8 +115,8 @@ Conference: 39th Annual Iranian Mathematics Conference. 2008; (Speech)<br />
 Authors: Homa Almasieh, K. Maleknejad
 
 **10- Piecewise constant basis functions approach to design in control systems**<br /> 
-Conference: 37th Annual Iranian Mathematics Conference. 2006; (Speech)<br /> 
-Authors: Homa Almasieh
+Conference: 37th Annual Iranian Mathematics Conference. 2006; (Speech)
+<br /> Authors: Homa Almasieh
 
 **11- A method for reduced sensitivity state feedback eigenvalue assignment in singular linear systems**<br /> 
 Conference: 7th Seminar on Differential Equations and Dynamical Systems. 2005; (Speech)<br /> 
