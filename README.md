@@ -1,70 +1,73 @@
 ## PUBLICATIONS
 
-**1- The method of radial basis functions for the solution of nonlinear Fredholm integral equations system** <br />
+**1- The method of radial basis functions for the solution of nonlinear Fredholm integral equations system**<br />
 Journal: Journal of Linear and Topological Algebra 2017; 6(1):11-28<br />
 Authors: Jinoos Nazari Meleh , Mohammad Nili Ahmadabadi and Homa Almasieh
 
-2- A meshless method for optimal control problem of Volterra-Fredholm integral equations using multiquadric radial basis functions
-Journal: Journal of New Researchers in Mathematics 2016; 2(7):89-96,
+**2- A meshless method for optimal control problem of Volterra-Fredholm integral equations using multiquadric radial basis functions**<br />
+Journal: Journal of New Researchers in Mathematics 2016; 2(7):89-96<br />
 Authors: Homa Almasieh, Jinoos Nazari Meleh
 
-3- A meshless technique for nonlinear Volterra-Fredholm integral equations via hybrid of radial basis functions
-Journal: Theory of Approximation and Applications 2016; 10(2):43-59,
+**3- A meshless technique for nonlinear Volterra-Fredholm integral equations via hybrid of radial basis functions**<br />
+Journal: Theory of Approximation and Applications 2016; 10(2):43-59<br />
 Authors: Homa Almasieh, Jinoos Nazari Meleh
 
-4- Numerical solution of differential-difference equations in large intervals using a Taylor collocation method
-Journal: AIP Conference Proceedings 2015: 1684,
+**4- Numerical solution of differential-difference equations in large intervals using a Taylor collocation method**<br />
+Journal: AIP Conference Proceedings 2015: 1684<br />
 Authors: M Dadkhah Tirani, F Sohrabi, H Almasieh and M Tavassoli Kajani
 
-5- On the modification of preconditioned AOR iterative method for linear system
-Journal: Theory of Approximation and Applications 2014; 1 (1):1-12,
+**5- On the modification of preconditioned AOR iterative method for linear system**<br />
+Journal: Theory of Approximation and Applications 2014; 1 (1):1-12<br />
 Authors: Homa Almasieh, Sahar Gholami
 
-6- Numerical solution of a class of mixed two-dimensional nonlinear Volterra-Fredholm integral equations using multiquadric radial basis functions
-Journal: Journal of Computational and Applied Mathematics 2014; 260:173-179,
-Authors: Homa Almasieh, Jinoos Nazari Meleh,
-http://dx.doi.org/10.1016/j.cam.2013.09.067.
+**6- Numerical solution of a class of mixed two-dimensional nonlinear Volterra-Fredholm integral equations using multiquadric radial basis functions**<br />
+Journal: Journal of Computational and Applied Mathematics 2014; 260:173-179<br />
+Authors: Homa Almasieh, Jinoos Nazari Meleh<br />
+http://dx.doi.org/10.1016/j.cam.2013.09.067
 
-7- Hybrid functions method based on radial basis functions for solving nonlinear Fredholm integral equation
-Journal: Journal of Mathematical Extension 2013; 7(3):29-38,
+**7- Hybrid functions method based on radial basis functions for solving nonlinear Fredholm integral equation**<br />
+Journal: Journal of Mathematical Extension 2013; 7(3):29-38<br />
 Authors: Homa Almasieh, Jinoos Nazari Meleh
 
-8- Triangular functions method for the solution of Fredholm integral equations system
-Journal: Ain Shams Engineering Journal 2012; 3(4):411-416,
-Authors: Homa Almasieh, Masoud Roodaki
-http://dx.doi.org/10.1016/j.asej.2012.04.006.
+**8- Triangular functions method for the solution of Fredholm integral equations system**<br />
+Journal: Ain Shams Engineering Journal 2012; 3(4):411-416<br />
+Authors: Homa Almasieh, Masoud Roodaki<br />
+http://dx.doi.org/10.1016/j.asej.2012.04.006
 
-9- A meshless method for the numerical solution of nonlinear Volterra integro-differential equation using radial basis functions
-Journal: Journal of Sama Technical and Vocational Traning College 2012; 2(1):41-44,
+**9- A meshless method for the numerical solution of nonlinear Volterra integro-differential equation using radial basis functions**<br />
+Journal: Journal of Sama Technical and Vocational Traning College 2012; 2(1):41-44<br />
 Authors: Homa Almasieh, Jinoos Nazari Meleh
 
-10- Delta basis functions and their applications to systems of integral equations
-Journal: Computers and Mathematics with Applications. 2012;63:100-109,
-Authors: Masoud Roodaki, Homa Almasieh
-doi:10.1016/j.camwa.2011.10.076.
+**10- Delta basis functions and their applications to systems of integral equations**<br />
+Journal: Computers and Mathematics with Applications. 2012;63:100-109<br />
+Authors: Masoud Roodaki, Homa Almasieh<br />
+doi:10.1016/j.camwa.2011.10.076
 
-11- A direct approach for optimal control of linear delay systems
-Journal: International Geoinformatics Research and Development Journal. 2011;2(3):69-75,
+**11- A direct approach for optimal control of linear delay systems**<br />
+Journal: International Geoinformatics Research and Development Journal. 2011;2(3):69-75<br />
 Authors: Homa Almasieh
 
-12- Optimal control of Volterra integral equations via triangular functions
-Journal: Mathematical and Computer Modelling. 2011;53:1902-1909,
-Authors: K. Maleknejad, H. Almasieh, doi:10.1016/j.mcm.2011.01.017.
+**12- Optimal control of Volterra integral equations via triangular functions**<br />
+Journal: Mathematical and Computer Modelling. 2011;53:1902-1909<br />
+Authors: K. Maleknejad, H. Almasieh,<br />
+doi:10.1016/j.mcm.2011.01.017
 
-13- Two-dimensional triangular functions and their applications to nonlinear 2D Volterra_Fredholm integral equations
- Journal: Computers and Mathematics with Applications. 2010;60:1711-1722,
-Authors: E. Babolian, K.Maleknejad, M. Roodaki, H. Almasieh, doi:10.1016/j.camwa.2010.07.002.
+**13- Two-dimensional triangular functions and their applications to nonlinear 2D Volterra_Fredholm integral equations**<br />
+ Journal: Computers and Mathematics with Applications. 2010;60:1711-1722<br />
+Authors: E. Babolian, K.Maleknejad, M. Roodaki, H. Almasieh<br /> 
+doi:10.1016/j.camwa.2010.07.002
 
-14- Triangular functions (TF) method for the solution of nonlinear Volterra-Fredholm integral equations.
-Journal: Communication in Nonlinear Science and Numerical Simulation. 2010;15:3293-3298, 
-Authors: K. Maleknejad, H. Almasieh, M. Roodaki, doi:10.1016/j.cnsns.2009.12.015.
+**14- Triangular functions (TF) method for the solution of nonlinear Volterra-Fredholm integral equations**<br />
+Journal: Communication in Nonlinear Science and Numerical Simulation. 2010;15:3293-3298<br />
+Authors: K. Maleknejad, H. Almasieh, M. Roodaki<br />
+doi:10.1016/j.cnsns.2009.12.015
 
-15- Numerical solution of Volterra integral equations of first kind by using a recursive scheme
-Journal: Journal of Mathematical Extension. 2009;3(2):113-121,
+**15- Numerical solution of Volterra integral equations of first kind by using a recursive scheme**<br />
+Journal: Journal of Mathematical Extension. 2009;3(2):113-121<br />
 Authors: K. Maleknejad, M. Roodaki, H. Almasieh
 
-16- Preconditioned technique for solving Fredholm integral equations of the first kind with triangular functions
-Journal: World Applied Science Journal. 2009;7(Special Issue of Applied Math):162-167,
+**16- Preconditioned technique for solving Fredholm integral equations of the first kind with triangular functions**<br />
+Journal: World Applied Science Journal. 2009;7(Special Issue of Applied Math):162-167<br />
 Authors: K. Maleknejad, H. Almasieh, M. Roodaki
 
 
