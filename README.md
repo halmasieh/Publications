@@ -75,54 +75,55 @@ Mathematical  Models and their Applications, Published by Isfahan University, 20
 
 ## CONFERENCES
 
-1- Hybrid functions method for solving integro differential equations
+1- Hybrid functions method for solving integro differential equations, 
 Conference: 5th Iranian Conference on Applied Mathematics. 2013; (Poster),
 Authors: Homa Almasieh, Najaf Taherian
 
-2- A meshless method for the numerical solution of nonlinear Volterra-Fredholm integro-differential equations using radial basis functions
+2- A meshless method for the numerical solution of nonlinear Volterra-Fredholm integro-differential equations using radial basis functions,
 Conference: International Conference on Mathematical Sciences & Computer Engineering - ICMSCE-2012; (Speech),
 Authors: Homa Almasieh, Jinoos Nazari Meleh
 
-3- A direct method for the system of integro differential equations 
+3- A direct method for the system of integro differential equations, 
 Conference: Annual International Conference on Computational Mathematics, Computational Geometry & Statistics. 2012; (Speech),
 Authors: Homa Almasieh
 
-4- Numerical Solution of nonlinear time varying systems
+4- Numerical Solution of nonlinear time varying systems,
 Conference: The Sixth International Seminar on Linear Algebra & Its Applications. 2011; (Speech),
 Authors: Homa Almasieh
 
-5- A direct approach for optimal control of linear delay systems
+5- A direct approach for optimal control of linear delay systems,
  Conference: 5th Symposium on Advances in Science and Technology (5thSASTech). 2011; (Speech),
 Authors: Homa Almasieh
 
-6- Numerical solution of system of Volterra integro differential equations 
+6- Numerical solution of system of Volterra integro differential equations, 
 Conference: 5th Symposium on Advances in Science and Technology (5thSASTech). 2011; (Speech),
 Authors: Homa Almasieh
 
-7- Analysis of optimal control time delay systems
+7- Analysis of optimal control time delay systems,
 Conference: The  4th Conference and Workshop on Mathematical Chemistry(FCWMC). 2011; (Speech),
 Authors: Homa Almasieh, Bahareh Sadeghi
 
-8- Numerical solution of time delay systems via orthogonal triangular functions Conference: 40th Annual Iranian Mathematics Conference. 2009; (Speech),
+8- Numerical solution of time delay systems via orthogonal triangular functions,
+Conference: 40th Annual Iranian Mathematics Conference. 2009; (Speech),
 Authors: Homa Almasieh, E. Babolian
 
-9- Analysis and synthesis of descriptor systems with wavelet functions 
+9- Analysis and synthesis of descriptor systems with wavelet functions, 
 Conference: 39th Annual Iranian Mathematics Conference. 2008; (Speech),
 Authors: Homa Almasieh, K. Maleknejad
 
-10- Piecewise constant basis functions approach to design in control systems
+10- Piecewise constant basis functions approach to design in control systems,
 Conference: 37th Annual Iranian Mathematics Conference. 2006; (Speech),
 Authors: Homa Almasieh
 
-11- A method for reduced sensitivity state feedback eigenvalue assignment in singular linear systems
+11- A method for reduced sensitivity state feedback eigenvalue assignment in singular linear systems,
 Conference: 7th Seminar on Differential Equations and Dynamical Systems. 2005; (Speech),
 Authors: M. Shafiee, S. M. Karbassi, H. Almasieh
 
-12- State feedback design of singular 2-D continuous-discrete systems
+12- State feedback design of singular 2-D continuous-discrete systems,
 Conference: 7th Seminar on Differential Equations and Dynamical Systems. 2005; (Speech),
 Authors: H. Almasieh, M. Shafiee
 
-13- New method of robust eigenvalue assignment in singular systems
+13- New method of robust eigenvalue assignment in singular systems,
 Conference: 6th Seminar on Differential Equations and Dynamical Systems. 2004; (Speech),
 Authors: M. Shafiee, S. M. Karbassi, H.Almasieh
 
@@ -165,6 +166,29 @@ Authors: M. Shafiee, S. M. Karbassi, H.Almasieh
 •	Numerical solution of functional equations using radial basis functions
 
 
+## Journal Reviewer of International Journals in Mathematics, Engineering, Economic and Science   
+ 
+• Ain Shams Engineering Journal 
+
+• Journal of Computational and Applied Mathematics  
+
+• Beni-Suef University Journal of Basics and Applied Sciences
+
+• Journal of Mathematical Extension
+
+• Abstract and Applied Analysis 
+
+• World Applied Sciences Journal 
+
+• Journal of Materials Science Researches 
+
+• Mathematical Modelling and Analysis 
+
+• Mathematical Methods in the Applied Sciences 
+
+• Applied Mathematics and Computation 
+
+
 ## RESEARCH INTERESTS
 
 •	Machine learning and its techniques
@@ -196,6 +220,8 @@ Authors: M. Shafiee, S. M. Karbassi, H.Almasieh
 •	Data driven and identification models
 
 •	Networking and graph theory 
+
+
 
 
 
