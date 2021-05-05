@@ -88,7 +88,7 @@ Authors: Homa Almasieh, Jinoos Nazari Meleh
 
 **3- A direct method for the system of integro differential equations**<br />   
 Conference: Annual International Conference on Computational Mathematics, Computational Geometry & Statistics. 2012; (Speech) 
-<br />Authors: Homa Almasieh
+Authors: Homa Almasieh
 
 **4- Numerical Solution of nonlinear time varying systems**<br /> 
 Conference: The Sixth International Seminar on Linear Algebra & Its Applications. 2011; (Speech)<br /> 
@@ -112,7 +112,7 @@ Authors: Homa Almasieh, E. Babolian
 
 **9- Analysis and synthesis of descriptor systems with wavelet functions**<br />
 Conference: 39th Annual Iranian Mathematics Conference. 2008; (Speech)  
-<br />Authors: Homa Almasieh, K. Maleknejad
+Authors: Homa Almasieh, K. Maleknejad
 
 **10- Piecewise constant basis functions approach to design in control systems**<br /> 
 Conference: 37th Annual Iranian Mathematics Conference. 2006; (Speech)
