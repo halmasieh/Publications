@@ -86,7 +86,7 @@ Authors: Homa Almasieh, Najaf Taherian
 Conference: International Conference on Mathematical Sciences & Computer Engineering - ICMSCE-2012; (Speech)<br /> 
 Authors: Homa Almasieh, Jinoos Nazari Meleh
 
-**3- A direct method for the system of integro differential equations**<br />  
+**3- A direct method for the system of integro differential equations** 
 Conference: Annual International Conference on Computational Mathematics, Computational Geometry & Statistics. 2012; (Speech)<br /> 
 Authors: Homa Almasieh
 
