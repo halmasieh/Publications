@@ -69,10 +69,12 @@ Authors: K. Maleknejad, M. Roodaki, H. Almasieh
 **16- Preconditioned technique for solving Fredholm integral equations of the first kind with triangular functions**<br />
 Journal: World Applied Science Journal. 2009;7(Special Issue of Applied Math):162-167<br />
 Authors: K. Maleknejad, H. Almasieh, M. Roodaki
+<br /> <br /> 
 
 ## BOOK
 
 Mathematical  Models and their Applications, Published by Isfahan University, Isfahan, Iran, 2018
+<br /> <br /> 
 
 ## CONFERENCES
 
@@ -167,6 +169,7 @@ Authors: M. Shafiee, S. M. Karbassi, H.Almasieh
 •	The application of orthogonal polynomials in solving integral equations
 
 •	Numerical solution of functional equations using radial basis functions
+<br /> <br /> 
 
 
 ## Journal Reviewer of International Journals in Mathematics, Engineering, Economic and Science   
@@ -189,7 +192,8 @@ Authors: M. Shafiee, S. M. Karbassi, H.Almasieh
 
 • Mathematical Methods in the Applied Sciences 
 
-• Applied Mathematics and Computation 
+• Applied Mathematics and Computation
+<br /> <br /> 
 
 
 ## RESEARCH INTERESTS
