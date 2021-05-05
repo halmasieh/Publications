@@ -154,19 +154,33 @@ My research area is very wide and is not limited to the following interests:
 ## RESEARCH INTERESTS
 
 •	Machine learning and its techniques
-•	Deep learning 
+
+•	Deep learning
+
 •	Data analysis and predictive modeling 
+
 •	Regression analysis and optimization methods
+
 •	Genetic algorithm
+
 •	Simulation
+
 •	Dynamical models
+
 •	Dynamical systems and their control
-•	Sensitivity of dynamical systems 
+
+•	Sensitivity of dynamical systems
+
 •	Design feedback in dynamical systems
+
 •	Computational models to biology
+
 •	Integral equations 
+
 •	Calculus of variations and optimal control
+
 •	Data driven and identification models
+
 •	Networking and graph theory 
 
 
