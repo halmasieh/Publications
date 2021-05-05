@@ -1,7 +1,9 @@
 ## PUBLICATIONS
 
-The method of radial basis functions for the solution of nonlinear Fredholm integral equations system
+• The method of radial basis functions for the solution of nonlinear Fredholm integral equations system
+
 Journal: Journal of Linear and Topological Algebra 2017; 6(1):11-28
+
 Authors: Jinoos Nazari Meleh , Mohammad Nili Ahmadabadi and Homa Almasieh
 
 A meshless method for optimal control problem of Volterra-Fredholm integral equations using multiquadric radial basis functions
@@ -130,25 +132,40 @@ Authors: M. Shafiee, S. M. Karbassi, H.Almasieh
 ## THESIS SUPERVISIONS
 
 •	On the approximate solutions for system of fractional integro-differential equations using chebyshev pseudo-spectral method
-•	A meshless method for solving nonlinear two-dimensional integral equations with degenerate kernel based on radial basis functions
-•	Numerical solution of integro-differential-difference equations via Boubaker polynomials
-•	Numerical solution of two-dimensional integral equations via wavelet functions
-•	Numerical solution of integral equations syatem via wavelet functions
-•	Numerical solution of integral equation systems of the first kind
-•	Optimal control and numerical solution of time-varying systems via hybrid functions                         
-•	Optimal control of time-varying systems via sample-and-hold functions  
-•	A Jacobi-Gauss collocation method for solving nonlinear Lane-emden type equations 
-•	Numerical solution of nonlinear convolution Volterra integral equation using collocation method
-•	Numerical solution of integro-differential equations via sample-and-hold functions
-•	Using wavelet functions to solve integral equations
-•	Global dynamics and bifurcation in delayed SIR epidemic model
-•	Solutions of Falkner-Scan equation with Heat transfer by Fourier series
-•	Numerical solution of nonlinear integral equation via collocation method based on Radial basis functions
-•	Numerical solution of functional equations using sinc functions
-•	The application of orthogonal polynomials in solving integral equations
-•	Numerical solution of functional equations using radial basis functions
 
-My research area is very wide and is not limited to the following interests:   
+•	A meshless method for solving nonlinear two-dimensional integral equations with degenerate kernel based on radial basis functions
+
+•	Numerical solution of integro-differential-difference equations via Boubaker polynomials
+
+•	Numerical solution of two-dimensional integral equations via wavelet functions
+
+•	Numerical solution of integral equations syatem via wavelet functions
+
+•	Numerical solution of integral equation systems of the first kind
+
+•	Optimal control and numerical solution of time-varying systems via hybrid functions
+
+•	Optimal control of time-varying systems via sample-and-hold functions
+
+•	A Jacobi-Gauss collocation method for solving nonlinear Lane-emden type equations
+
+•	Numerical solution of nonlinear convolution Volterra integral equation using collocation method
+
+•	Numerical solution of integro-differential equations via sample-and-hold functions
+
+•	Using wavelet functions to solve integral equations
+
+•	Global dynamics and bifurcation in delayed SIR epidemic model
+
+•	Solutions of Falkner-Scan equation with Heat transfer by Fourier series
+
+•	Numerical solution of nonlinear integral equation via collocation method based on Radial basis functions
+
+•	Numerical solution of functional equations using sinc functions
+
+•	The application of orthogonal polynomials in solving integral equations
+
+•	Numerical solution of functional equations using radial basis functions
 
 
 ## RESEARCH INTERESTS
