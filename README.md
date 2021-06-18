@@ -23,7 +23,7 @@ Authors: Homa Almasieh, Sahar Gholami
 **6- Numerical solution of a class of mixed two-dimensional nonlinear Volterra-Fredholm integral equations using multiquadric radial basis functions**<br />
 Journal: Journal of Computational and Applied Mathematics 2014; 260:173-179<br />
 Authors: Homa Almasieh, Jinoos Nazari Meleh<br />
-http://dx.doi.org/10.1016/j.cam.2013.09.067
+http://doi.org/10.1016/j.cam.2013.09.067
 
 **7- Hybrid functions method based on radial basis functions for solving nonlinear Fredholm integral equation**<br />
 Journal: Journal of Mathematical Extension 2013; 7(3):29-38<br />
@@ -32,7 +32,7 @@ Authors: Homa Almasieh, Jinoos Nazari Meleh
 **8- Triangular functions method for the solution of Fredholm integral equations system**<br />
 Journal: Ain Shams Engineering Journal 2012; 3(4):411-416<br />
 Authors: Homa Almasieh, Masoud Roodaki<br />
-http://dx.doi.org/10.1016/j.asej.2012.04.006
+http://doi.org/10.1016/j.asej.2012.04.006
 
 **9- A meshless method for the numerical solution of nonlinear Volterra integro-differential equation using radial basis functions**<br />
 Journal: Journal of Sama Technical and Vocational Traning College 2012; 2(1):41-44<br />
@@ -41,7 +41,7 @@ Authors: Homa Almasieh, Jinoos Nazary Meleh
 **10- Delta basis functions and their applications to systems of integral equations**<br />
 Journal: Computers and Mathematics with Applications. 2012;63:100-109<br />
 Authors: Masoud Roodaki, Homa Almasieh<br />
-http://dx.doi:10.1016/j.camwa.2011.10.076
+http://doi:10.1016/j.camwa.2011.10.076
 
 **11- A direct approach for optimal control of linear delay systems**<br />
 Journal: International Geoinformatics Research and Development Journal. 2011;2(3):69-75<br />
@@ -50,12 +50,12 @@ Authors: Homa Almasieh
 **12- Optimal control of Volterra integral equations via triangular functions**<br />
 Journal: Mathematical and Computer Modelling. 2011;53:1902-1909<br />
 Authors: K. Maleknejad, H. Almasieh,<br />
-http://dx.doi:10.1016/j.mcm.2011.01.017
+http://doi:10.1016/j.mcm.2011.01.017
 
 **13- Two-dimensional triangular functions and their applications to nonlinear 2D Volterra_Fredholm integral equations**<br />
  Journal: Computers and Mathematics with Applications. 2010;60:1711-1722<br />
 Authors: E. Babolian, K.Maleknejad, M. Roodaki, H. Almasieh<br /> 
-http://dx.doi:10.1016/j.camwa.2010.07.002
+http://doi:10.1016/j.camwa.2010.07.002
 
 **14- Triangular functions (TF) method for the solution of nonlinear Volterra-Fredholm integral equations**<br />
 Journal: Communication in Nonlinear Science and Numerical Simulation. 2010;15:3293-3298<br />
