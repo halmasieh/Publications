@@ -41,7 +41,7 @@ Authors: Homa Almasieh, Jinoos Nazary Meleh
 **10- Delta basis functions and their applications to systems of integral equations**<br />
 Journal: Computers and Mathematics with Applications. 2012;63:100-109<br />
 Authors: Masoud Roodaki, Homa Almasieh<br />
-doi:10.1016/j.camwa.2011.10.076
+http://dx.doi:10.1016/j.camwa.2011.10.076
 
 **11- A direct approach for optimal control of linear delay systems**<br />
 Journal: International Geoinformatics Research and Development Journal. 2011;2(3):69-75<br />
@@ -50,17 +50,17 @@ Authors: Homa Almasieh
 **12- Optimal control of Volterra integral equations via triangular functions**<br />
 Journal: Mathematical and Computer Modelling. 2011;53:1902-1909<br />
 Authors: K. Maleknejad, H. Almasieh,<br />
-doi:10.1016/j.mcm.2011.01.017
+http://dx.doi:10.1016/j.mcm.2011.01.017
 
 **13- Two-dimensional triangular functions and their applications to nonlinear 2D Volterra_Fredholm integral equations**<br />
  Journal: Computers and Mathematics with Applications. 2010;60:1711-1722<br />
 Authors: E. Babolian, K.Maleknejad, M. Roodaki, H. Almasieh<br /> 
-doi:10.1016/j.camwa.2010.07.002
+http://dx.doi:10.1016/j.camwa.2010.07.002
 
 **14- Triangular functions (TF) method for the solution of nonlinear Volterra-Fredholm integral equations**<br />
 Journal: Communication in Nonlinear Science and Numerical Simulation. 2010;15:3293-3298<br />
 Authors: K. Maleknejad, H. Almasieh, M. Roodaki<br />
-doi:10.1016/j.cnsns.2009.12.015
+http://dx.doi:10.1016/j.cnsns.2009.12.015
 
 **15- Numerical solution of Volterra integral equations of first kind by using a recursive scheme**<br />
 Journal: Journal of Mathematical Extension. 2009;3(2):113-121<br />
