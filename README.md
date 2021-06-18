@@ -60,7 +60,7 @@ http://dx.doi:10.1016/j.camwa.2010.07.002
 **14- Triangular functions (TF) method for the solution of nonlinear Volterra-Fredholm integral equations**<br />
 Journal: Communication in Nonlinear Science and Numerical Simulation. 2010;15:3293-3298<br />
 Authors: K. Maleknejad, H. Almasieh, M. Roodaki<br />
-https://www.semanticscholar.org/paper/Triangular-functions-%28TF%29-method-for-the-solution-Maleknejad-Almasieh/299840a57e14972482266bbd6334be61dda9ab78
+https://doi.org/10.1016/j.cnsns.2009.12.015
 
 **15- Numerical solution of Volterra integral equations of first kind by using a recursive scheme**<br />
 Journal: Journal of Mathematical Extension. 2009;3(2):113-121<br />
