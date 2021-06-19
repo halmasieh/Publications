@@ -1,5 +1,3 @@
-## PUBLICATIONS
-
 **1- The method of radial basis functions for the solution of nonlinear Fredholm integral equations system**<br />
 Journal: Journal of Linear and Topological Algebra 2017; 6(1):11-28<br />
 Authors: Jinoos Nazari Meleh , Mohammad Nili Ahmadabadi and Homa Almasieh
