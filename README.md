@@ -69,10 +69,10 @@ Journal: World Applied Science Journal. 2009;7(Special Issue of Applied Math):16
 Authors: K. Maleknejad, H. Almasieh, M. Roodaki
 <br /> <br /> 
 
-## BOOK
+<!-- ## BOOK
 
 Mathematical  Models and their Applications, Published by Isfahan University, Isfahan, Iran, 2018
-<br /> <br /> 
+<br /> <br />  -->
 
 ## CONFERENCES
 
