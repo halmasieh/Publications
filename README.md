@@ -172,25 +172,26 @@ Authors: M. Shafiee, S. M. Karbassi, H.Almasieh
 
 ## Journal Reviewer of International Journals in Mathematics, Engineering, Economic and Science   
  
-• Ain Shams Engineering Journal 
+• [Ain Shams Engineering Journal](https://www.sciencedirect.com/journal/ain-shams-engineering-journal) 
 
-• Journal of Computational and Applied Mathematics  
+• [Journal of Computational and Applied Mathematics](https://www.journals.elsevier.com/journal-of-computational-and-applied-mathematics) 
 
-• Beni-Suef University Journal of Basics and Applied Sciences
+• [Beni-Suef University Journal of Basics and Applied Sciences](https://bjbas.springeropen.com/) 
 
-• Journal of Mathematical Extension
+• [Journal of Mathematical Extension](https://ijmex.com/index.php/ijmex) 
 
-• Abstract and Applied Analysis 
+• [Abstract and Applied Analysis](https://www.hindawi.com/journals/aaa/) 
 
-• World Applied Sciences Journal 
+• [World Applied Sciences Journal](http://journalseeker.researchbib.com/view/issn/1818-4952) 
 
-• Journal of Materials Science Researches 
+• [Journal of Materials Science Researches](https://www.ccsenet.org/journal/index.php/jmsr) 
 
-• Mathematical Modelling and Analysis 
+• [Mathematical Modelling and Analysis](http://mmajournal.org/) 
 
-• Mathematical Methods in the Applied Sciences 
+• [Mathematical Methods in the Applied Sciences](https://onlinelibrary.wiley.com/journal/10991476) 
 
-• Applied Mathematics and Computation
+• [Applied Mathematics and Computation](https://www.sciencedirect.com/journal/applied-mathematics-and-computation) 
+
 <br /> <br /> 
 
 
@@ -225,28 +226,6 @@ Authors: M. Shafiee, S. M. Karbassi, H.Almasieh
 •	Data driven and identification models
 
 •	Networking and graph theory 
-
-## Journal Reviewer of International Journals in Mathematics, Engineering, Economic and Science   
- 
-• [Ain Shams Engineering Journal](https://www.sciencedirect.com/journal/ain-shams-engineering-journal) 
-
-• [Journal of Computational and Applied Mathematics](https://www.journals.elsevier.com/journal-of-computational-and-applied-mathematics) 
-
-• [Beni-Suef University Journal of Basics and Applied Sciences](https://bjbas.springeropen.com/) 
-
-• [Journal of Mathematical Extension](https://ijmex.com/index.php/ijmex) 
-
-• [Abstract and Applied Analysis](https://www.hindawi.com/journals/aaa/) 
-
-• [World Applied Sciences Journal](http://journalseeker.researchbib.com/view/issn/1818-4952) 
-
-• [Journal of Materials Science Researches](https://www.ccsenet.org/journal/index.php/jmsr) 
-
-• [Mathematical Modelling and Analysis](http://mmajournal.org/) 
-
-• [Mathematical Methods in the Applied Sciences](https://onlinelibrary.wiley.com/journal/10991476) 
-
-• [Applied Mathematics and Computation](https://www.sciencedirect.com/journal/applied-mathematics-and-computation) 
 
 
 
