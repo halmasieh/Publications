@@ -39,7 +39,7 @@ Authors: Homa Almasieh, Jinoos Nazary Meleh
 **10- Delta basis functions and their applications to systems of integral equations**<br />
 Journal: Computers and Mathematics with Applications. 2012;63:100-109.
 Authors: Masoud Roodaki, Homa Almasieh
-[link](doi:10.1016/j.camwa.2011.10.076)
+[link](http://doi:10.1016/j.camwa.2011.10.076)
 
 **11- A direct approach for optimal control of linear delay systems**<br />
 Journal: International Geoinformatics Research and Development Journal. 2011;2(3):69-75<br />
