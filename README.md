@@ -18,7 +18,7 @@ Authors: M Dadkhah Tirani, F Sohrabi, H Almasieh and M Tavassoli Kajani
 Journal: Theory of Approximation and Applications 2014; 1 (1):1-12<br />
 Authors: Homa Almasieh, Sahar Gholami
 
-Numerical solution of a class of mixed two-dimensional nonlinear Volterra-Fredholm integral equations using multiquadric radial basis functions
+**6- Numerical solution of a class of mixed two-dimensional nonlinear Volterra-Fredholm integral equations using multiquadric radial basis functions**<br />
 Journal: Journal of Computational and Applied Mathematics 2014; 260:173-179
 Authors: Homa Almasieh, Jinoos Nazari Meleh
 [link](http://dx.doi.org/10.1016/j.cam.2013.09.067)
@@ -27,7 +27,7 @@ Authors: Homa Almasieh, Jinoos Nazari Meleh
 Journal: Journal of Mathematical Extension 2013; 7(3):29-38<br />
 Authors: Homa Almasieh, Jinoos Nazari Meleh
 
-Triangular functions method for the solution of Fredholm integral equations system
+**8- Triangular functions method for the solution of Fredholm integral equations system**<br />
 Journal: Ain Shams Engineering Journal 2012; 3(4):411-416
 Authors: Homa Almasieh, Masoud Roodaki
 [link](http://dx.doi.org/10.1016/j.asej.2012.04.006)
@@ -36,7 +36,7 @@ Authors: Homa Almasieh, Masoud Roodaki
 Journal: Journal of Sama Technical and Vocational Traning College 2012; 2(1):41-44<br />
 Authors: Homa Almasieh, Jinoos Nazary Meleh
 
-Delta basis functions and their applications to systems of integral equations
+**10- Delta basis functions and their applications to systems of integral equations**<br />
 Journal: Computers and Mathematics with Applications. 2012;63:100-109.
 Authors: Masoud Roodaki, Homa Almasieh
 [link](doi:10.1016/j.camwa.2011.10.076)
@@ -45,16 +45,17 @@ Authors: Masoud Roodaki, Homa Almasieh
 Journal: International Geoinformatics Research and Development Journal. 2011;2(3):69-75<br />
 Authors: Homa Almasieh
 
-Optimal control of Volterra integral equations via triangular functions    Journal: Mathematical and Computer Modelling. 2011;53:1902-1909.
+**12- Optimal control of Volterra integral equations via triangular functions**<br />
+Journal: Mathematical and Computer Modelling. 2011;53:1902-1909.
 Authors: K. Maleknejad, H. Almasieh
 [link](doi:10.1016/j.mcm.2011.01.017)
 
-Two-dimensional triangular functions and their applications to nonlinear 2D Volterra_Fredholm integral equations
+**13- Two-dimensional triangular functions and their applications to nonlinear 2D Volterra_Fredholm integral equations**<br />
  Journal: Computers and Mathematics with Applications. 2010;60:1711-1722.
 Authors: E. Babolian, K.Maleknejad, M. Roodaki, H. Almasieh
 [link](doi:10.1016/j.camwa.2010.07.002)
 
-Triangular functions (TF) method for the solution of nonlinear Volterra-Fredholm integral equations.
+**14- Triangular functions (TF) method for the solution of nonlinear Volterra-Fredholm integral equations**<br />
 Journal: Communication in Nonlinear Science and Numerical Simulation. 2010;15:3293-3298.
 Authors: K. Maleknejad, H. Almasieh, M. Roodaki
 [link](doi:10.1016/j.cnsns.2009.12.015)
@@ -228,14 +229,23 @@ Authors: M. Shafiee, S. M. Karbassi, H.Almasieh
 ## Journal Reviewer of International Journals in Mathematics, Engineering, Economic and Science   
  
 • [Ain Shams Engineering Journal](https://www.sciencedirect.com/journal/ain-shams-engineering-journal) 
+
 • [Journal of Computational and Applied Mathematics](https://www.journals.elsevier.com/journal-of-computational-and-applied-mathematics) 
+
 • [Beni-Suef University Journal of Basics and Applied Sciences](https://bjbas.springeropen.com/) 
+
 • [Journal of Mathematical Extension](https://ijmex.com/index.php/ijmex) 
+
 • [Abstract and Applied Analysis](https://www.hindawi.com/journals/aaa/) 
+
 • [World Applied Sciences Journal](http://journalseeker.researchbib.com/view/issn/1818-4952) 
+
 • [Journal of Materials Science Researches](https://www.ccsenet.org/journal/index.php/jmsr) 
+
 • [Mathematical Modelling and Analysis](http://mmajournal.org/) 
+
 • [Mathematical Methods in the Applied Sciences](https://onlinelibrary.wiley.com/journal/10991476) 
+
 • [Applied Mathematics and Computation](https://www.sciencedirect.com/journal/applied-mathematics-and-computation) 
 
 
