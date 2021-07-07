@@ -22,7 +22,7 @@ Authors: Homa Almasieh, Sahar Gholami
 Numerical solution of a class of mixed two-dimensional nonlinear Volterra-Fredholm integral equations using multiquadric radial basis functions
 Journal: Journal of Computational and Applied Mathematics 2014; 260:173-179
 Authors: Homa Almasieh, Jinoos Nazari Meleh
-http://dx.doi.org/10.1016/j.cam.2013.09.067.
+[link](http://dx.doi.org/10.1016/j.cam.2013.09.067)
 
 Hybrid functions method based on radial basis functions for solving nonlinear Fredholm integral equation
 Journal: Journal of Mathematical Extension 2013; 7(3):29-38.
@@ -31,7 +31,7 @@ Authors: Homa Almasieh, Jinoos Nazari Meleh
 Triangular functions method for the solution of Fredholm integral equations system
 Journal: Ain Shams Engineering Journal 2012; 3(4):411-416
 Authors: Homa Almasieh, Masoud Roodaki
-http://dx.doi.org/10.1016/j.asej.2012.04.006.
+[link](http://dx.doi.org/10.1016/j.asej.2012.04.006)
 
 A meshless method for the numerical solution of nonlinear Volterra integro-differential equation using radial basis functions
 Journal: Journal of Sama Technical and Vocational Traning College 2012; 2(1):41-44
@@ -40,7 +40,7 @@ Authors: Homa Almasieh, Jinoos Nazari Meleh
 Delta basis functions and their applications to systems of integral equations
 Journal: Computers and Mathematics with Applications. 2012;63:100-109.
 Authors: Masoud Roodaki, Homa Almasieh
-doi:10.1016/j.camwa.2011.10.076.
+[link](doi:10.1016/j.camwa.2011.10.076)
 
 A direct approach for optimal control of linear delay systems
 Journal: International Geoinformatics Research and Development Journal. 2011;2(3):69-75.
@@ -48,17 +48,17 @@ Authors: Homa Almasieh
 
 Optimal control of Volterra integral equations via triangular functions    Journal: Mathematical and Computer Modelling. 2011;53:1902-1909.
 Authors: K. Maleknejad, H. Almasieh
-doi:10.1016/j.mcm.2011.01.017.
+[link](doi:10.1016/j.mcm.2011.01.017)
 
 Two-dimensional triangular functions and their applications to nonlinear 2D Volterra_Fredholm integral equations
  Journal: Computers and Mathematics with Applications. 2010;60:1711-1722.
 Authors: E. Babolian, K.Maleknejad, M. Roodaki, H. Almasieh
-doi:10.1016/j.camwa.2010.07.002.
+[link](doi:10.1016/j.camwa.2010.07.002)
 
 Triangular functions (TF) method for the solution of nonlinear Volterra-Fredholm integral equations.
 Journal: Communication in Nonlinear Science and Numerical Simulation. 2010;15:3293-3298.
 Authors: K. Maleknejad, H. Almasieh, M. Roodaki
-doi:10.1016/j.cnsns.2009.12.015.
+[link](doi:10.1016/j.cnsns.2009.12.015)
 
 Numerical solution of Volterra integral equations of first kind by using a recursive scheme
 Journal: Journal of Mathematical Extension. 2009;3(2):113-121.
@@ -93,7 +93,7 @@ Conference: The Sixth International Seminar on Linear Algebra & Its Applications
 Authors: Homa Almasieh
 
 A direct approach for optimal control of linear delay systems
- Conference: 5th Symposium on Advances in Science and Technology (5thSASTech). 2011; (Speech)
+Conference: 5th Symposium on Advances in Science and Technology (5thSASTech). 2011; (Speech)
 Authors: Homa Almasieh
 
 Numerical solution of system of Volterra integro differential equations 
@@ -168,6 +168,20 @@ My research area is very wide and is not limited to the following interests:
 •	Calculus of variations and optimal control
 •	Data driven and identification models
 •	Networking and graph theory 
+
+## Journal Reviewer of International Journals in Mathematics, Engineering, Economic and Science   
+ 
+• [Ain Shams Engineering Journal](https://www.sciencedirect.com/journal/ain-shams-engineering-journal) 
+• [Journal of Computational and Applied Mathematics](https://www.journals.elsevier.com/journal-of-computational-and-applied-mathematics) 
+• [Beni-Suef University Journal of Basics and Applied Sciences](https://bjbas.springeropen.com/) 
+• [Journal of Mathematical Extension](https://ijmex.com/index.php/ijmex) 
+• [Abstract and Applied Analysis](https://www.hindawi.com/journals/aaa/) 
+• [World Applied Sciences Journal](http://journalseeker.researchbib.com/view/issn/1818-4952) 
+• [Journal of Materials Science Researches](https://www.ccsenet.org/journal/index.php/jmsr) 
+• [Mathematical Modelling and Analysis](http://mmajournal.org/) 
+• [Mathematical Methods in the Applied Sciences](https://onlinelibrary.wiley.com/journal/10991476) 
+• [Applied Mathematics and Computation](https://www.sciencedirect.com/journal/applied-mathematics-and-computation) 
+
 
 
 
